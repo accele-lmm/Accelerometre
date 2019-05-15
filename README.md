@@ -1,8 +1,8 @@
 # Accelerometre
 
-##Mettre en place Github
+## Mettre en place Github
 
-###Installer Github
+### Installer Github
 
     sudo apt-get update
 
@@ -12,7 +12,7 @@ Pour vérifier la version de git
 
     git --version
 
-###Cloner les répertoires
+### Cloner les répertoires
 
 Pour utiliser Github sur votre PC (windows seulement) : https://desktop.github.com/
 

@@ -38,5 +38,3 @@ char mess[30] ;
 	
 	return 0 ;
 }
-
-

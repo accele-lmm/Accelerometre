@@ -12,3 +12,12 @@ ACCE05/smb380_drv.o
 ACCE05/smb380_i2c_V1.1.gdb
 ACCE05/sys.o
 ACCE05/vmlinux.bin
+.vscode/ipch/fff4df41cd891533/mmap_address.bin
+.vscode/ipch/fff4df41cd891533/board.ipch
+.vscode/ipch/e24e4443da7a3eec/mmap_address.bin
+.vscode/ipch/ae73ef310015843c/mmap_address.bin
+.vscode/ipch/73b0d27d5f88ae7b/mmap_address.bin
+.vscode/ipch/4f0f28bffcf3751e/mmap_address.bin
+.vscode/ipch/4f0f28bffcf3751e/fb_Graphic.ipch
+.vscode/ipch/283a80c168801c78/sys.ipch
+.vscode/ipch/283a80c168801c78/mmap_address.bin

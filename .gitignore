@@ -2,3 +2,13 @@
 .vscode/ipch/85719128f27e7054/main.ipch
 .vscode/ipch/85719128f27e7054/mmap_address.bin
 .vscode/ipch/d5aa12a518d2382e/fb_Graphic.ipch
+ACCE05/acce05
+ACCE05/acce05.gdb
+ACCE05/fb_Graphic.o
+ACCE05/i2c0_drv.o
+ACCE05/main.o
+ACCE05/romfs_5.img
+ACCE05/smb380_drv.o
+ACCE05/smb380_i2c_V1.1.gdb
+ACCE05/sys.o
+ACCE05/vmlinux.bin

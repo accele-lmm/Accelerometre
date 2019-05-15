@@ -1,0 +1,14 @@
+#!/bin/sh
+APP_FILE=acce05
+UCLINUX_PATH=~/olimex/uClinux-dist-lpc_2478_stk_modified
+ROMFS_PATH=${UCLINUX_PATH}/romfs
+IMAGE_PATH=${UCLINUX_PATH}/images
+ 
+rm romfs_5.img
+rm vmlinux.bin
+cp ${APP_FILE} ${ROMFS_PATH}/bin
+#mkdir ${ROMFS_PATH}/dev/i2c0
+genromfs -d ${ROMFS_PATH} -f romfs_5.img
+cp ${IMAGE_PATH}/vmlinux.bin .
+
+echo "romfs file generated"
